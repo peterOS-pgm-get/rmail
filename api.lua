@@ -1,5 +1,5 @@
 local api = {} ---@class RMail.API
-local log = pos.Logger('/home/.pgmLog/rmailAPI.log')
+local log = pos.Logger('rmailAPI.log')
 api.log = log
 
 local dta = {}
