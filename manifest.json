@@ -1,0 +1,10 @@
+{
+    "version": 2.1,
+    "files": [
+        "cmd.lua",
+        "api.lua",
+        "gui.lua"
+    ],
+    "exec": "cmd.lua",
+    "cmpt": null
+}
