@@ -9,7 +9,7 @@ pgm-get install rmail
 
 ## Command
 
-### `rmail`: Open GUI Browser
+### `rmail`: Open Mail GUI
 
 ## Appdata
 
